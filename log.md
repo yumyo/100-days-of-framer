@@ -4,6 +4,13 @@
 
 **Today's Progress**:
 
+#### Design Layouts and Icons
+
+Basic introduction to Framer X
+https://designcode.io/framer-x-layouts-icons
+
 **Thoughts:**
+Amazing start!!!
 
 **Link to work:**
+![alt text](assets/imgs/day-001.png 'Logo Title Text 1')
