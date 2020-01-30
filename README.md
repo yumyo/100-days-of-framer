@@ -17,6 +17,7 @@ Full list of resources for the challenge beyond 100 days:
 
 -   [Design and Code in Framer X](https://designcode.io/framer-x-course)
 -   [UI Interactions in Framer Playground](https://designcode.io/framer-playground)
+-   [Framer 101 Crash Course](https://www.framer.com/learn/)
 -   More to come...[stay tuned!]
 
 ## Want to change other habits?
