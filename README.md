@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge
+# I've joined the #100DaysOfFramer Challenge
 
 ## Contents
 
@@ -9,26 +9,15 @@
 
 ## The Why
 
-These 100 days are focused on **improving my core JavaScript knowledge**.
+These 100 days are focused on **learning Framer and use it to manage my own design system**.
 
 ## Resources
 
 Full list of resources for the challenge beyond 100 days:
 
--   [freeCodeCamp Basic Javascript](https://www.freecodecamp.org)
--   [freeCodeCamp Basic Algorithm Scripting](https://www.freecodecamp.org)
--   [NodeSchool Workshoppers](https://www.nodeschool.io)
--   [MDN - Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
--   [Wes Bos - ES6 for everyone](https://es6.io/)
--   [Wes Bos - JavaScript 30](https://javascript30.com/)
--   [Beau Teaches JavaScript](https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
--   [You Don't Know JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
--   [Daniel Shiffman - Topics of ES6](https://www.youtube.com/watch?v=q8SHaDQdul0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
--   [Daniel Shiffman - Foundations of Programming in JavaScript](https://www.youtube.com/watch?v=8j0UDiN7my4&index=1&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
--   [Daniel Shiffman - HTML / CSS / DOM](https://www.youtube.com/watch?v=URSH0QpxKo8&list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX&index=1)
--   [ Fun Fun Function - Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
--   [MDN - JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
--   [Codecademy - Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+-   [Design and Code in Framer X](https://designcode.io/framer-x-course)
+-   [UI Interactions in Framer Playground](https://designcode.io/framer-playground)
+-   More to come...[stay tuned!]
 
 ## Want to change other habits?
 
